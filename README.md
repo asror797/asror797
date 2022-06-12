@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Asror👨‍💻&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Asror👨‍💻&center=true&size=35">
   </a>
 </h1>
 
@@ -14,18 +14,16 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Mabrur, Software Engineer from Uzbekistan
+  Hi, I'm Asror, Software Engineer from Uzbekistan
   <br>
-  <br>
-  🔬 I'm currently studying at Tashkent University of IT and working at iTechArt
-  <br>
+  
+
   💻 I love writing code and learn anythings about it
+
   <br>
-  ✍️ My blog, where I share personal experiences <a href="https://t.me/mabrur_dev">t.me/mabrur_dev</a>
+  💬 Ask me anything about from <a href="https://github.com/asror797/asror797/issues" title="Issues">Here</a>
   <br>
-  💬 Ask me anything about from <a href="https://github.com/mabrur-h/mabrur-h/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: mabrur.h11@gmail.com">mabrur.h11@gmail.com</a>
+  📫 How to reach me: <a href="mailto: mabrur.h11@gmail.com">asror.shahobiddinov7@gmail.com</a>
 </p>
 
 <hr>
